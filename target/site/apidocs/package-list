@@ -1,0 +1,11 @@
+lk.ijse.dep.pos.jpa
+lk.ijse.dep.pos.jpa.business
+lk.ijse.dep.pos.jpa.business.custom
+lk.ijse.dep.pos.jpa.business.custom.impl
+lk.ijse.dep.pos.jpa.controller
+lk.ijse.dep.pos.jpa.dao
+lk.ijse.dep.pos.jpa.dao.custom
+lk.ijse.dep.pos.jpa.dao.custom.impl
+lk.ijse.dep.pos.jpa.db
+lk.ijse.dep.pos.jpa.entity
+lk.ijse.dep.pos.jpa.util
